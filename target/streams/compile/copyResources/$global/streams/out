@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/rcadiente/Desktop/projects/PROVEST/conf/application.conf,/Users/rcadiente/Desktop/projects/PROVEST/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rcadiente/Desktop/projects/PROVEST/conf/logback.xml,/Users/rcadiente/Desktop/projects/PROVEST/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rcadiente/Desktop/projects/PROVEST/conf/routes,/Users/rcadiente/Desktop/projects/PROVEST/target/scala-2.11/classes/routes)[0m
